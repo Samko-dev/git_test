@@ -1,0 +1,1 @@
+This is Samko's first git project!
